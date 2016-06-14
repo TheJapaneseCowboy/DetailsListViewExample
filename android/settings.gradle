@@ -1,0 +1,3 @@
+rootProject.name = 'SkyDemo'
+
+include ':app'
